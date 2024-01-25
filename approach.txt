@@ -1,0 +1,3 @@
+space to enter job description
+upload pdf 
+pdf to image ->processing->gemini prompt 
